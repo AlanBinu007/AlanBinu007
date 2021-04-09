@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Binu
 - 💌 alanbinu5@gmail.com  or  iamalanbinu@gmai.com
-- ❤  Currwntly i am working as a Full Stack Developer in Infosys
+- ❤  Currently i am working as a Full Stack Developer in Infosys
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently new Technologies that make me better amoung others😄
 - 💞️ I’m looking to collaborate with everyone
