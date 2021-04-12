@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Alan Binu (Full Stack Developer)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanBinu007&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AlanBinu007?label=Follow%20Me&style=social)](https://github.com/AlanBinu007)
 <br>
 - 💌 alanbinu5@gmail.com  or  iamalanbinu@gmai.com
