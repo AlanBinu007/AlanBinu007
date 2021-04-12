@@ -16,7 +16,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
 <img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" alt="NodeJs" height="40"/> 
 <img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/javascript-512.png" alt="javaScript" width="40" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt="mongoDB" width="40" height="40"/> 
 <img src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" alt="Spring" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
