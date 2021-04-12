@@ -25,12 +25,9 @@
 </p>
 
 
- <details>
-<summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlanBinu007&show_icons=true&theme=gotham" alt="Alan Binu | Stats" />
 
-</details>
 
 
 <!--* 🏠 Hogwarts House: Griffindor-->
