@@ -24,6 +24,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlanBinu007&show_icons=true&theme=gotham" alt="Alan Binu | Stats" /> -->
