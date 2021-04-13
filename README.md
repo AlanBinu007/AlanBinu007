@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Alan Binu (Full Stack Developer)
 
-[![HitCount](http://hits.dwyl.com/ishan-me/AlanBinu007.svg)](http://hits.dwyl.com/AlanBinu007/AlanBinu007)
+[![HitCount](http://hits.dwyl.com/AlanBinu007/AlanBinu007.svg)](http://hits.dwyl.com/AlanBinu007/AlanBinu007)
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AlanBinu007?label=Follow%20Me&style=social)](https://github.com/AlanBinu007)
 <br>
