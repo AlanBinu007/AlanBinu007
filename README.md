@@ -42,11 +42,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlanBinu007&show_icons=true&theme=gotham" alt="Alan Binu | Stats" />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AlanBinu007/count.svg" />
-</p>
-
 
 
 <!--* 🏠 Hogwarts House: Griffindor-->
