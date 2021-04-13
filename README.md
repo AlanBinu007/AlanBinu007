@@ -1,6 +1,9 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Alan Binu (Full Stack Developer)
 
-[![HitCount](http://hits.dwyl.com/AlanBinu007/AlanBinu007.svg)](http://hits.dwyl.com/AlanBinu007/AlanBinu007)
+![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007)
+<a href=https://github.com/TesseractCoding/NeoAlgo>
+   <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
+</a>
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AlanBinu007?label=Follow%20Me&style=social)](https://github.com/AlanBinu007)
 <br>
