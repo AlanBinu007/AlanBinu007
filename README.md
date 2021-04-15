@@ -6,7 +6,7 @@
 <br>
 - ✔  Please have a look to my Protfolio :  http://alanbinu007.github.io/
 - 💌 alanbinu5@gmail.com  or  iamalanbinu@gmai.com
-- ❤  Currently i am working as a Full Stack Developer in Infosys
+- ❤  Currently i am working as a Full Stack Engineer at Infosys
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently new Technologies that make me better amoung others😄
 - 💞️ I’m looking to collaborate with everyone
