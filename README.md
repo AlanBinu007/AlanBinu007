@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Alan Binu (Full Stack Developer)
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Alan Binu
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007)
 
