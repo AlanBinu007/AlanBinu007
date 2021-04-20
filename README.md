@@ -36,24 +36,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlanBinu007&show_icons=true&theme=gotham" alt="Alan Binu | Stats" />
-
-
-
-<!--* 🏠 Hogwarts House: Griffindor-->
-<!--* If you play Call of Duty- add me: Blackhood@00-->
-<!--* I am currently learning Docker-->
-<!--* I’m currently working on my portfolio. -->
-<!-- * Ask me about anything, I'll be happy to help.-->
-<!-- -->
-<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
-
-<!---
-AlanBinu007/AlanBinu007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
