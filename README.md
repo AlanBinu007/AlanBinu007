@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007)
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AlanBinu007?label=Follow%20Me&style=social)](https://github.com/AlanBinu007)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github]
 <br>
 - 🌟 Visit My Blog Page : https://hashnode.com/@alanbinu/
 - ✔  Please have a look to my Protfolio :  http://alanbinu007.github.io/
