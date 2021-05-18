@@ -5,6 +5,7 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 - ✔  Please have a look to my Protfolio :  https://alanbinu-portfolio.web.app/#/
+- 😎 Check my Digital archivements Badges https://www.credly.com/users/alan-binu
 - 🌟 Visit My Blog Page : https://hashnode.com/@alanbinu/
 - 💌 alanbinu5@gmail.com  or  iamalanbinu@gmai.com
 - ❤  Currently i am working as a Full Stack Engineer at Infosys
@@ -13,7 +14,7 @@
 - 💞️ I’m looking to collaborate with everyone
 - 🎉 Please have a look to my Proffestional certificates  https://github.com/AlanBinu007/Professional-Certificate
 - 📫 How to reach me on LnkedIn  https://www.linkedin.com/in/alan-binu-95025015a/
-- 😎 Check my Digital archivements Badges https://www.credly.com/users/alan-binu
+
 
 💻 **Languages and Tools:** 🛠️<br>
 
