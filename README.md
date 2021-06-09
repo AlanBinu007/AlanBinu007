@@ -38,3 +38,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanBinu007&" alt="AlanBinu007" /></p>
+<br>
+
