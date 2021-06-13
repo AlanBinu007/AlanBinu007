@@ -38,8 +38,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+## 🏆 *Github Status*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanBinu007&" alt="AlanBinu007" /></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=AlanBinu007&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AlanBinu007&theme=dark" width="48%" >
 <br>
+
 
