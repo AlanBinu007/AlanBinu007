@@ -6,7 +6,7 @@
 <br>
 - ✔  Please have a look to my Protfolio :  https://alanbinu-portfolio.web.app/#/
 - 💪 Please have a look to my Company Page :  https://web-tech-solutions.web.app/
-- 💻 My LeetCode Profile : https://leetcode.com/alanbinu5/
+<!--- 💻 My LeetCode Profile : https://leetcode.com/alanbinu5/ -->
 - 😎 Check my Digital archivements Badges https://www.credly.com/users/alan-binu
 - 🌟 Visit My Blog Page : https://hashnode.com/@alanbinu/
 - 💌 alanbinu5@gmail.com  or  iamalanbinu@gmai.com
