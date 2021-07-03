@@ -45,5 +45,5 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=AlanBinu007&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AlanBinu007&theme=dark" width="48%" >
 <br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlanBinu007)
+
 
