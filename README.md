@@ -17,6 +17,8 @@
 - 🎉 My Proffestional certificates  https://drive.google.com/drive/u/0/folders/1YRBGfnkOho_u8-UOTZxxFiSvxKD8rw97
 - 📫 How to reach me on LinkedIn  https://www.linkedin.com/in/alan-binu-95025015a/
 
+<a href="https://www.buymeacoffee.com/alanbinu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 💻 *Languages and Tools:* 🛠️<br>
 
