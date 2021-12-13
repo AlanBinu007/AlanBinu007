@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alan Binu</h1>
-<h3 align="center">Experienced with IT Automation, Web Developer, Full Stack Engineer and Machine Learning</h3>
+<h3 align="center">Experienced with Web Developement, Full Stack Engineer, Machine Learning and Automation Testing,</h3>
 
 <h4 align="center">I am a Full Stack Engineer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best software developer that I can be and to contribute to the technology industry all that I know and can do.</h4>
 
