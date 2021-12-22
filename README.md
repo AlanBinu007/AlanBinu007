@@ -4,7 +4,7 @@
 
 <h4 align="center">I am a Full Stack Engineer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best software developer that I can be and to contribute to the technology industry all that I know and can do.</h4>
 
-![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
