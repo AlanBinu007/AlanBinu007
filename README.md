@@ -45,7 +45,7 @@
 
 ## 🏆 Github Status
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=AlanBinu007&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/AlanBinu007&hide_border=true)
+
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=AlanBinu007&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
