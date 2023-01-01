@@ -13,7 +13,7 @@
 - 💻 My LeetCode Profile : https://leetcode.com/alanbinu5/
 - 😎 Check my Digital archivements Badges https://www.credly.com/users/alan-binu
 - 🌟 Visit My Blog Page : https://hashnode.com/@alanbinu/
-- ❤  Currently i am working as a Full Stack Engineer at Infosys
+- ❤  Currently i am working as a Java Developer at TCS
 - 🎉 My Proffestional certificates  https://drive.google.com/drive/u/0/folders/1YRBGfnkOho_u8-UOTZxxFiSvxKD8rw97
 - 📫 How to reach me on LinkedIn  https://www.linkedin.com/in/alan-binu-95025015a/
 
