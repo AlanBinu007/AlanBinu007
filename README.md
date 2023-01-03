@@ -9,7 +9,6 @@
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 - ✔  Please have a look to my Digital Protfolio :  https://alanbinu.com/
-- 💪 Please have a look to my Company Page :  https://web-tech-solutions.web.app/
 - 💻 My LeetCode Profile : https://leetcode.com/alanbinu5/
 - 😎 Check my Digital archivements Badges https://www.credly.com/users/alan-binu
 - 🌟 Visit My Blog Page : https://hashnode.com/@alanbinu/
