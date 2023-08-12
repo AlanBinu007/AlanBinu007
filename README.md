@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🙂, I'm Alan Binu</h1>
 <h3 align="center">Experienced with Full Stack Java Development, Machine Learning, Data Engineering and Automation Testing</h3>
 
-<h4 align="center">I am a Java Spring Boot Developer with 3 years of knowledge  back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best software developer that I can be and to contribute to the technology industry all that I know and can do.</h4>
+<h4 align="center">Java Developer with vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with Solid Computer Science(CS) fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Java Developer</h4>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
